@@ -49,7 +49,14 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/e50b4cbd1b874ece86d8d2996137c280" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div>
+    <a href="https://www.loom.com/share/e50b4cbd1b874ece86d8d2996137c280">
+      <p>bangla-flashcards - 8 March 2026 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/e50b4cbd1b874ece86d8d2996137c280">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/e50b4cbd1b874ece86d8d2996137c280-9c113d7453d4d455-full-play.gif#t=0.1">
+    </a>
+  </div>
 
 GIF created with **Loom**
 
