@@ -46,7 +46,14 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='PUT_YOUR_GIF_LINK_HERE' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<div>
+    <a href="https://www.loom.com/share/6ec6dac7209f4acc8cd617ef675ce445">
+      <p>bangla-flashcards - 14 March 2026 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/6ec6dac7209f4acc8cd617ef675ce445">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/6ec6dac7209f4acc8cd617ef675ce445-c786e956f62dde54-full-play.gif#t=0.1">
+    </a>
+  </div>
 
 GIF created with **Loom**
 
